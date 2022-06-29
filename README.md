@@ -1,3 +1,16 @@
+# Présentation
+
+Ceci est un projet d'entrainement NextJS du cours de [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/).
+L'objectif est de construire un petit blog avec des articles écrit en markdown. Il y a également une page de contact qui permet d'envoyer des messages sur une DB de MongoDB.
+
+# Projet live
+
+Le projet est déployé en ligne avec Vercel à l'adresse suivante : https://nextjs-blog-training-topaz.vercel.app/
+
+---
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
